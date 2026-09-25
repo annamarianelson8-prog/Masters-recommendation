@@ -1,0 +1,141 @@
+student_id,cgpa,ug_branch,projects_count,internships_count,skills,interest_id,area_of_interest,career_goal,program_id
+STU001,8.16,EEE,3,2,Cloud Computing|SQL|Web Development,I07,Business & Strategy,Business Analyst,P06
+STU002,9.22,Mathematics,4,1,Deep Learning|Machine Learning|Python|SQL|UI/UX Design,I01,Artificial Intelligence,Research Scientist,P02
+STU003,8.17,Statistics,6,3,C++|Data Visualization|Machine Learning|Python|SQL,I01,Artificial Intelligence,ML Engineer,P03
+STU004,8.46,IT,4,3,Data Visualization|Java|Python,I06,Cloud & DevOps,Software Engineer,P01
+STU005,8.85,IT,2,1,Cloud Computing|Cybersecurity|DevOps|Machine Learning|Python,I04,Cybersecurity,Cloud Architect,P10
+STU006,8.94,Statistics,5,3,Cybersecurity|Python|SQL,I02,Data Science & Analytics,ML Engineer,P05
+STU007,9.71,CSE,6,1,Cloud Computing|Data Visualization|Java|Machine Learning|Python|Web Development,I06,Cloud & DevOps,Research Scientist,P04
+STU008,7.31,IT,2,2,Java|Machine Learning|Python|Web Development,I03,Software Development,Product Manager,P08
+STU009,7.77,ECE,3,3,C++|Java|Machine Learning|Python|UI/UX Design|Web Development,I05,Product & UX Design,Product Manager,P08
+STU010,8.27,IT,4,1,Cloud Computing|DevOps|Java|Python|UI/UX Design|Web Development,I03,Software Development,Cloud Architect,P09
+STU011,7.39,ECE,4,1,DevOps|Java|Python|UI/UX Design|Web Development,I05,Product & UX Design,UX Designer,P08
+STU012,7.59,IT,6,1,C++|Cloud Computing|Python|Web Development,I03,Software Development,Software Engineer,P01
+STU013,8.15,ECE,4,3,C++|Deep Learning|Java|Python|UI/UX Design|Web Development,I05,Product & UX Design,Product Manager,P08
+STU014,8.37,CSE,3,1,C++|Cybersecurity|DevOps,I04,Cybersecurity,Security Analyst,P07
+STU015,7.75,CSE,3,2,Data Visualization|Deep Learning|Web Development,I07,Business & Strategy,Business Analyst,P06
+STU016,8.35,Mathematics,7,3,Cybersecurity|Data Visualization|Deep Learning|Machine Learning|Python|SQL,I01,Artificial Intelligence,Research Scientist,P02
+STU017,8.9,CSE,5,1,Cloud Computing|DevOps|Java|Python|Web Development,I01,Artificial Intelligence,ML Engineer,P04
+STU018,7.97,CSE,6,3,Data Visualization|Python|SQL,I02,Data Science & Analytics,Data Scientist,P02
+STU019,7.86,IT,3,1,Cloud Computing|Cybersecurity|DevOps|Java|SQL|Web Development,I03,Software Development,Software Engineer,P09
+STU020,7.93,ECE,4,0,C++|Cybersecurity|DevOps|Python,I04,Cybersecurity,Security Analyst,P07
+STU021,8.14,ECE,4,0,DevOps|Java|Python,I03,Software Development,Software Engineer,P01
+STU022,8.35,ECE,5,1,Cloud Computing|Python|UI/UX Design,I03,Software Development,Cloud Architect,P01
+STU023,7.54,IT,4,1,C++|Cloud Computing|Cybersecurity|Java|Python|SQL,I04,Cybersecurity,Software Engineer,P07
+STU024,9.47,CSE,9,2,C++|Java|Machine Learning|Python|UI/UX Design,I06,Cloud & DevOps,Software Engineer,P04
+STU025,7.48,CSE,5,1,Data Visualization|Java|SQL,I01,Artificial Intelligence,ML Engineer,P03
+STU026,8.92,IT,4,2,Cloud Computing|Data Visualization|DevOps|Python,I03,Software Development,Cloud Architect,P09
+STU027,7.81,CSE,4,1,Cloud Computing|DevOps|Python|SQL|Web Development,I06,Cloud & DevOps,Software Engineer,P09
+STU028,8.37,CSE,6,2,Cloud Computing|Data Visualization|Java|SQL|Web Development,I06,Cloud & DevOps,Software Engineer,P01
+STU029,7.51,IT,6,2,C++|DevOps|Python|Web Development,I03,Software Development,Cloud Architect,P01
+STU030,7.68,CSE,3,3,Cloud Computing|Java|UI/UX Design|Web Development,I03,Software Development,Software Engineer,P09
+STU031,7.03,CSE,5,2,Java|UI/UX Design|Web Development,I05,Product & UX Design,Product Manager,P08
+STU032,7.26,CSE,3,2,Java|Machine Learning|Python|Web Development,I05,Product & UX Design,UX Designer,P08
+STU033,8.18,ECE,6,0,Cloud Computing|DevOps|Python,I06,Cloud & DevOps,Security Analyst,P10
+STU034,9.05,IT,4,2,C++|Cloud Computing|Cybersecurity|DevOps|Java|Python,I06,Cloud & DevOps,Cloud Architect,P10
+STU035,8.93,ECE,4,0,C++|Cloud Computing|Cybersecurity|Deep Learning|Java|Python,I04,Cybersecurity,Software Engineer,P07
+STU036,7.53,IT,2,2,Cloud Computing|Machine Learning|SQL|Web Development,I06,Cloud & DevOps,Cloud Architect,P09
+STU037,7.62,Mechanical,4,3,C++|Cloud Computing|Data Visualization|Python|SQL|Web Development,I02,Data Science & Analytics,Business Analyst,P06
+STU038,8.2,IT,2,2,Cloud Computing|Java|Python|SQL|Web Development,I03,Software Development,Software Engineer,P01
+STU039,7.63,IT,5,3,Data Visualization|Deep Learning|DevOps|Machine Learning|Python|SQL,I02,Data Science & Analytics,Research Scientist,P02
+STU040,9.01,ECE,6,4,C++|Java|Machine Learning|Python,I01,Artificial Intelligence,Software Engineer,P04
+STU041,8.5,ECE,4,3,Cloud Computing|Data Visualization|Java|Python,I04,Cybersecurity,Software Engineer,P07
+STU042,7.41,IT,4,3,Cloud Computing|Data Visualization|DevOps|Java|SQL|Web Development,I03,Software Development,Cloud Architect,P09
+STU043,7.93,CSE,4,2,Cloud Computing|DevOps|Java|Machine Learning|SQL|Web Development,I03,Software Development,Cloud Architect,P09
+STU044,7.87,CSE,2,3,Cybersecurity|DevOps|Python,I06,Cloud & DevOps,Cloud Architect,P09
+STU045,8.15,CSE,4,2,Cloud Computing|Deep Learning|Java|Python|Web Development,I06,Cloud & DevOps,Software Engineer,P09
+STU046,7.33,IT,5,0,C++|Cloud Computing|Cybersecurity|DevOps|Java|Python,I04,Cybersecurity,Security Analyst,P07
+STU047,9.02,Mathematics,5,2,Data Visualization|Deep Learning|Machine Learning|Python|UI/UX Design,I01,Artificial Intelligence,ML Engineer,P05
+STU048,8.89,CSE,8,3,Data Visualization|Machine Learning|Python|Web Development,I01,Artificial Intelligence,ML Engineer,P02
+STU049,9.42,Statistics,7,1,Data Visualization|Java|Machine Learning|Python,I02,Data Science & Analytics,Data Scientist,P05
+STU050,7.78,IT,2,1,Java|SQL|Web Development,I06,Cloud & DevOps,Software Engineer,P09
+STU051,7.68,ECE,6,1,C++|Cloud Computing|Cybersecurity|DevOps|Java|Python,I04,Cybersecurity,Software Engineer,P07
+STU052,8.05,IT,4,2,C++|DevOps|Java|Machine Learning,I06,Cloud & DevOps,Research Scientist,P04
+STU053,6.78,CSE,4,1,Cybersecurity|Java|Python|SQL|UI/UX Design|Web Development,I05,Product & UX Design,Product Manager,P08
+STU054,7.48,IT,4,3,Cybersecurity|Java|Python|SQL|Web Development,I06,Cloud & DevOps,Cloud Architect,P09
+STU055,7.14,IT,4,1,C++|Cybersecurity|Python,I04,Cybersecurity,Security Analyst,P07
+STU056,7.3,IT,3,2,C++|Cloud Computing|Cybersecurity|Java|Python,I04,Cybersecurity,Software Engineer,P07
+STU057,8.43,IT,4,2,Data Visualization|Deep Learning|Machine Learning|Python|SQL|Web Development,I01,Artificial Intelligence,ML Engineer,P02
+STU058,6.9,IT,3,3,Data Visualization|Machine Learning|SQL,I01,Artificial Intelligence,Data Scientist,P03
+STU059,7.8,Mechanical,2,3,Data Visualization|Machine Learning|Python|SQL,I02,Data Science & Analytics,Business Analyst,P06
+STU060,7.73,CSE,4,2,Deep Learning|DevOps|Java|Python|Web Development,I03,Software Development,Software Engineer,P09
+STU061,7.88,Mechanical,2,1,Cybersecurity|Data Visualization|Python|SQL|Web Development,I02,Data Science & Analytics,Business Analyst,P06
+STU062,7.93,CSE,5,2,Cloud Computing|Data Visualization|Java|Machine Learning|Python|SQL,I02,Data Science & Analytics,Data Scientist,P03
+STU063,7.82,Statistics,6,3,Machine Learning|SQL|Web Development,I02,Data Science & Analytics,Business Analyst,P03
+STU064,7.84,CSE,4,2,Cloud Computing|Data Visualization|DevOps|Java|SQL|Web Development,I06,Cloud & DevOps,Cloud Architect,P09
+STU065,8.42,Statistics,5,3,Data Visualization|Python|SQL,I01,Artificial Intelligence,Data Scientist,P05
+STU066,7.92,EEE,3,2,Data Visualization|Python|SQL|Web Development,I02,Data Science & Analytics,Business Analyst,P06
+STU067,8.27,Mathematics,6,2,Cloud Computing|Data Visualization|Deep Learning|Machine Learning|Python|SQL,I01,Artificial Intelligence,ML Engineer,P05
+STU068,8.16,CSE,5,2,Cybersecurity|Machine Learning|SQL,I01,Artificial Intelligence,Business Analyst,P03
+STU069,7.31,IT,3,3,Data Visualization|Deep Learning|Python|SQL|UI/UX Design|Web Development,I02,Data Science & Analytics,Business Analyst,P06
+STU070,8.31,CSE,3,2,C++|Cloud Computing|SQL|UI/UX Design,I01,Artificial Intelligence,Software Engineer,P01
+STU071,8.03,CSE,4,1,Deep Learning|DevOps|Java|Python|SQL|Web Development,I03,Software Development,Cloud Architect,P09
+STU072,7.86,Mathematics,0,0,Data Visualization|Deep Learning|DevOps|Machine Learning|Python|SQL,I02,Data Science & Analytics,Business Analyst,P03
+STU073,8.31,CSE,4,2,Data Visualization|Deep Learning|Java|Machine Learning|Python|SQL,I02,Data Science & Analytics,Data Scientist,P02
+STU074,9.27,CSE,6,2,Cybersecurity|Data Visualization|Deep Learning|Machine Learning|Python|SQL,I02,Data Science & Analytics,ML Engineer,P02
+STU075,7.54,IT,6,2,Cybersecurity|Java|Machine Learning|Python|UI/UX Design|Web Development,I03,Software Development,Product Manager,P08
+STU076,7.71,ECE,4,2,Cybersecurity|Java|Python|UI/UX Design,I05,Product & UX Design,Product Manager,P08
+STU077,7.48,ECE,5,3,Cloud Computing|Python|UI/UX Design|Web Development,I05,Product & UX Design,UX Designer,P08
+STU078,9.04,Statistics,4,2,C++|Deep Learning|Machine Learning,I01,Artificial Intelligence,ML Engineer,P05
+STU079,8.11,Mathematics,5,1,Cybersecurity|Data Visualization|Machine Learning|Python|SQL,I02,Data Science & Analytics,Research Scientist,P02
+STU080,8.46,ECE,4,3,C++|Cloud Computing|DevOps|Java|Python|Web Development,I01,Artificial Intelligence,Software Engineer,P04
+STU081,7.52,CSE,6,1,Data Visualization|Java|Python,I06,Cloud & DevOps,Software Engineer,P09
+STU082,7.34,CSE,5,2,Deep Learning|Java|Python|UI/UX Design|Web Development,I05,Product & UX Design,Product Manager,P08
+STU083,9.33,Mathematics,4,2,Deep Learning|Machine Learning|Python,I01,Artificial Intelligence,ML Engineer,P05
+STU084,8.44,ECE,4,3,Cloud Computing|Java|UI/UX Design,I03,Software Development,Product Manager,P08
+STU085,7.95,Statistics,6,2,C++|Data Visualization|Deep Learning|Machine Learning|Python|SQL,I02,Data Science & Analytics,Data Scientist,P05
+STU086,7.17,IT,5,2,DevOps|Java|UI/UX Design,I03,Software Development,Software Engineer,P09
+STU087,8.25,ECE,5,1,C++|Cloud Computing|DevOps|Java|Python|SQL,I06,Cloud & DevOps,Cloud Architect,P01
+STU088,8.88,CSE,3,3,Data Visualization|Deep Learning|Machine Learning|Python|SQL|UI/UX Design,I01,Artificial Intelligence,Data Scientist,P05
+STU089,7.6,IT,4,2,DevOps|Java|Web Development,I03,Software Development,Software Engineer,P09
+STU090,9.47,ECE,4,1,C++|Cloud Computing|Java|Python,I04,Cybersecurity,Security Analyst,P10
+STU091,9.33,CSE,4,1,DevOps|Machine Learning|Python,I02,Data Science & Analytics,Data Scientist,P03
+STU092,7.8,Mathematics,4,2,Cybersecurity|Data Visualization|SQL,I02,Data Science & Analytics,ML Engineer,P03
+STU093,9.01,Statistics,6,2,Cybersecurity|Data Visualization|Deep Learning,I01,Artificial Intelligence,Data Scientist,P05
+STU094,7.85,CSE,1,1,Cybersecurity|DevOps|Java|Python,I04,Cybersecurity,Software Engineer,P07
+STU095,7.46,IT,5,1,Cloud Computing|Cybersecurity|Deep Learning|Java,I04,Cybersecurity,Security Analyst,P07
+STU096,8.51,CSE,3,2,Data Visualization|Machine Learning|Python|SQL|Web Development,I01,Artificial Intelligence,Business Analyst,P03
+STU097,8.61,CSE,5,2,C++|Java|Python|SQL|Web Development,I06,Cloud & DevOps,Software Engineer,P01
+STU098,7.27,IT,3,0,Cloud Computing|Python|SQL|Web Development,I06,Cloud & DevOps,Software Engineer,P09
+STU099,7.79,Mathematics,4,2,Data Visualization|Deep Learning|Machine Learning|Python|SQL,I02,Data Science & Analytics,ML Engineer,P03
+STU100,8.32,Mathematics,4,2,C++|Machine Learning|Python,I02,Data Science & Analytics,Data Scientist,P03
+STU101,8.14,CSE,6,1,Data Visualization|Deep Learning|Python|SQL,I01,Artificial Intelligence,ML Engineer,P02
+STU102,8.52,Mathematics,3,1,Machine Learning|Python|SQL|Web Development,I01,Artificial Intelligence,Business Analyst,P03
+STU103,7.77,Mathematics,3,2,Cybersecurity|Data Visualization|Machine Learning|Python,I02,Data Science & Analytics,Data Scientist,P03
+STU104,7.88,Mathematics,5,3,C++|Data Visualization|DevOps|Machine Learning|Python|SQL,I02,Data Science & Analytics,Data Scientist,P03
+STU105,7.14,IT,5,3,Cloud Computing|Java|Python|UI/UX Design|Web Development,I03,Software Development,Product Manager,P08
+STU106,7.78,IT,2,1,DevOps|Java|Web Development,I05,Product & UX Design,Product Manager,P08
+STU107,9.6,CSE,6,2,Cloud Computing|Machine Learning|Web Development,I03,Software Development,ML Engineer,P04
+STU108,7.38,CSE,3,3,DevOps|Machine Learning|SQL|Web Development,I03,Software Development,Software Engineer,P09
+STU109,7.44,ECE,3,2,DevOps|Java|Python|UI/UX Design|Web Development,I03,Software Development,Product Manager,P08
+STU110,7.28,ECE,3,1,Data Visualization|Java|Python|SQL|UI/UX Design|Web Development,I07,Business & Strategy,Business Analyst,P06
+STU111,8.09,ECE,4,0,C++|Cloud Computing|Java|Machine Learning,I04,Cybersecurity,Software Engineer,P07
+STU112,8.05,IT,2,2,DevOps|Python|UI/UX Design,I04,Cybersecurity,Security Analyst,P10
+STU113,8.27,Statistics,4,3,C++|Machine Learning|Python,I02,Data Science & Analytics,ML Engineer,P05
+STU114,7.68,ECE,4,2,Cloud Computing|Cybersecurity|Python,I04,Cybersecurity,Software Engineer,P07
+STU115,7.63,CSE,3,3,Data Visualization|Deep Learning|Java|Machine Learning|Python|SQL,I01,Artificial Intelligence,ML Engineer,P03
+STU116,8.51,Mathematics,4,3,Data Visualization|Machine Learning|Python|SQL,I02,Data Science & Analytics,Data Scientist,P03
+STU117,7.89,IT,5,1,C++|Data Visualization|Machine Learning|SQL,I01,Artificial Intelligence,Data Scientist,P05
+STU118,8.09,IT,3,3,C++|Cloud Computing|DevOps|Java|SQL|Web Development,I06,Cloud & DevOps,Research Scientist,P01
+STU119,8.25,Mathematics,4,1,Data Visualization|Machine Learning|Python|SQL,I02,Data Science & Analytics,ML Engineer,P02
+STU120,8.08,CSE,4,1,Data Visualization|Deep Learning|Web Development,I07,Business & Strategy,Business Analyst,P06
+STU121,7.99,IT,5,3,Cloud Computing|DevOps|Java|Python|SQL|Web Development,I06,Cloud & DevOps,Software Engineer,P09
+STU122,7.89,Statistics,7,2,Machine Learning|SQL|Web Development,I02,Data Science & Analytics,Data Scientist,P03
+STU123,6.99,CSE,4,2,Cloud Computing|Python|UI/UX Design,I05,Product & UX Design,Product Manager,P08
+STU124,8.45,Mathematics,5,3,Cloud Computing|Data Visualization|Deep Learning|Machine Learning|Python|SQL,I01,Artificial Intelligence,ML Engineer,P02
+STU125,8.55,CSE,4,1,C++|Cloud Computing|Web Development,I06,Cloud & DevOps,Research Scientist,P04
+STU126,7.93,IT,4,2,Java|Machine Learning|Python|UI/UX Design|Web Development,I05,Product & UX Design,Product Manager,P08
+STU127,7.93,Statistics,2,2,Data Visualization|DevOps|Machine Learning|Python|SQL,I02,Data Science & Analytics,Data Scientist,P03
+STU128,7.07,Mechanical,3,2,Python|SQL|UI/UX Design|Web Development,I07,Business & Strategy,Business Analyst,P06
+STU129,6.95,ECE,4,1,C++|Cloud Computing|Cybersecurity|Python|UI/UX Design,I04,Cybersecurity,Cloud Architect,P10
+STU130,8.71,IT,4,3,C++|Cloud Computing|DevOps|Java|Machine Learning|Web Development,I01,Artificial Intelligence,Software Engineer,P04
+STU131,7.78,IT,5,3,C++|Cloud Computing|Web Development,I01,Artificial Intelligence,Software Engineer,P01
+STU132,8.79,IT,5,2,C++|DevOps|Web Development,I01,Artificial Intelligence,Research Scientist,P04
+STU133,8.11,ECE,7,2,C++|Cloud Computing|Cybersecurity|Python,I06,Cloud & DevOps,Cloud Architect,P10
+STU134,8.14,IT,6,3,Cloud Computing|Deep Learning|Java,I01,Artificial Intelligence,Research Scientist,P01
+STU135,7.77,IT,5,1,C++|Cloud Computing|Cybersecurity|SQL,I06,Cloud & DevOps,Cloud Architect,P10
+STU136,8.35,Statistics,4,3,C++|Data Visualization|Deep Learning|Machine Learning,I01,Artificial Intelligence,ML Engineer,P05
+STU137,8.62,CSE,5,3,Data Visualization|Deep Learning|Machine Learning|Python|Web Development,I02,Data Science & Analytics,Data Scientist,P02
+STU138,8.23,CSE,3,2,Cloud Computing|Deep Learning|Java|Python|UI/UX Design|Web Development,I05,Product & UX Design,UX Designer,P08
+STU139,8.12,IT,4,2,Cloud Computing|Deep Learning|DevOps|Java,I06,Cloud & DevOps,Software Engineer,P09
+STU140,7.4,ECE,3,2,C++|Cloud Computing|Cybersecurity|Java|Machine Learning|Python,I04,Cybersecurity,Security Analyst,P07

@@ -1,1 +1,1 @@
-"""Package marker for src modules."""
+"""Data package for warehouse generation scripts."""

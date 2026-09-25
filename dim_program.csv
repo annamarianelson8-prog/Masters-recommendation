@@ -1,0 +1,11 @@
+program_id,program_name,field,duration_years,example_universities,region,category
+P01,M.Tech Computer Science & Engineering,Computer Science,2,IIT Bombay; NIT Trichy; IIIT Hyderabad,India,Technical
+P02,M.Tech Artificial Intelligence,Artificial Intelligence,2,IIIT Hyderabad; IIT Madras; IISc Bangalore,India,Technical
+P03,M.Sc Data Science,Data Science,2,IIT Madras; CMI; University of Hyderabad,India,Technical
+P04,MS Computer Science,Computer Science,2,Stanford; Carnegie Mellon; Georgia Tech,Abroad,Technical
+P05,MS Data Science,Data Science,1.5,Columbia; NYU; University of Michigan,Abroad,Technical
+P06,MBA Business Analytics,Analytics / Management,2,ISB; IIM Bangalore; SPJIMR,India,Management
+P07,M.Tech Cybersecurity,Cybersecurity,2,NIT Surathkal; IIIT Delhi; Amrita,India,Technical
+P08,M.Des Human-Computer Interaction,HCI / Design,2,IIIT Delhi; IIT Guwahati; IDC IIT Bombay,India,Design
+P09,M.Tech Software Engineering,Software Engineering,2,BITS Pilani; VIT; IIIT Bangalore,India,Technical
+P10,MS Cybersecurity,Cybersecurity,1.5,Northeastern; NYU Tandon; Purdue,Abroad,Technical
